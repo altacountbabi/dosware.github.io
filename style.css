@@ -1,8 +1,3 @@
-@media only screen and (max-width: 900px) {
-    /* Style adjustments for non responsive websites */
-        
-}
-
 * {
     font-family: 'Poppins', sans-serif;
     background-color: #222;
@@ -24,7 +19,7 @@
     padding: 10px;
     font-family: Arial;
     margin-top: 45px;
-    margin-left: 30em;
+    margin-left: 24.3em;
     font-size: 1.8vw;
 }
 .subtitle {
