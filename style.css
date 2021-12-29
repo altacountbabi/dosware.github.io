@@ -1,0 +1,38 @@
+@media only screen and (max-width: 900px) {
+    /* Style adjustments for non responsive websites */
+        
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    background-color: #222;
+}
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8vw;
+    color: #fff;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    padding-top: 4vw;
+    text-align: center;
+}
+.downloadbtn {
+    border-radius: 5px;
+    border: 1px solid #fff;
+    color: #fff;
+    padding: 10px;
+    font-family: Arial;
+    margin-top: 45px;
+    margin-left: 30em;
+    font-size: 1.8vw;
+}
+.subtitle {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3vw;
+    color: #fff;
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+      text-align: center;
+}
